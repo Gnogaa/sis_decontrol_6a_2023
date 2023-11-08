@@ -1,0 +1,22 @@
+<html>
+<head>
+<script type="text/javascript">
+<!--
+function sayHello() {
+ alert("Hello World")
+}
+//-->
+</script>
+</head>
+<body>
+<script type="text/javascript">
+<!--
+document.write("Hello World")
+//-->
+</script>
+<input type="button" onclick="sayHello()" value="Say Hello" />
+ <br>
+ <a href="https://rodriiiival.github.io/sistema-de-control-6toa-2023/index.html" id="index">Inicio</a>
+
+</body>
+</html>
